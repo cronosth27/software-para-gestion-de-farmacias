@@ -11,7 +11,5 @@ usuaroios para ingreasar
 administrador = usuario  = jacinto
 contraseña= 12345
 
-
-
-expero te sea  uti  l este  software   
+espero que este softwARE TE SEA UTIL
 
